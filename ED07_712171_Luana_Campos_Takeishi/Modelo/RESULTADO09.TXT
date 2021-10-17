@@ -1,0 +1,104 @@
+
+
+cadeia = abola
+
+	quantidade = 4
+
+
+cadeia = AbaCate
+
+	quantidade = 4
+
+
+cadeia = Solar
+
+	quantidade = 2
+
+
+cadeia = arcO
+
+	quantidade = 2
+
+
+cadeia = parameTRO
+
+	quantidade = 4
+
+
+cadeia = viDA doce VIda
+
+	quantidade = 6
+
+
+cadeia = recanto
+
+	quantidade = 3
+
+
+cadeia = RECLUSO
+
+	quantidade = 0
+
+
+cadeia = caSUlo
+
+	quantidade = 3
+
+
+cadeia = OpAcO
+
+	quantidade = 1
+
+
+cadeia = traco
+
+	quantidade = 2
+
+
+cadeia = trapo
+
+	quantidade = 1
+
+
+cadeia = TOTAL
+
+	quantidade = 0
+
+
+cadeia = TODAS
+
+	quantidade = 0
+
+
+cadeia = nenhuma
+
+	quantidade = 4
+
+
+cadeia = VazIo
+
+	quantidade = 1
+
+
+cadeia = oPERA
+
+	quantidade = 0
+
+
+cadeia = MELAo
+
+	quantidade = 0
+
+
+cadeia = dia
+
+	quantidade = 3
+
+
+cadeia = NOITEs
+
+	quantidade = 0
+
+
+cadeia = VentoSolar e estrelaS DO MAR
+	quantidade = 8

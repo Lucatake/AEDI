@@ -1,0 +1,15 @@
+quantidade = 7
+quantidade maior que o numero de valores existentes
+
+quantidade = 6
+quantidade maior que o numero de valores existentes
+
+quantidade = 5
+soma = 0.309512
+
+quantidade = 4
+soma = 0.166655
+
+quantidade = 1
+soma = 0.000475
+

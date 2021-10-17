@@ -1,0 +1,20 @@
+Luana Campos Takeishi 	 Matricula: 712171
+Exemplo0712
+Versao: v0.1 - 07/10/20
+
+ quantidade: 15
+87
+81
+75
+69
+63
+57
+51
+45
+39
+33
+27
+21
+15
+9
+3

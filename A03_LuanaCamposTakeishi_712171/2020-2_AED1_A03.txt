@@ -1,0 +1,81 @@
+Pontifícia Universidade Católica de Minas Gerais
+Instituto de Ciências Exatas e Informática
+Curso de Ciência da Computação
+Disciplina: Algoritmos e Estruturas de Dados I
+
+Exercício 03                  Tempo = 110m+45m = 155m
+
+Matrícula:
+Nome     :
+
+Instruções
+
+- Desenvolver uma solução para o enunciado abaixo,
+  segundo o modelo de programa no arquivo template.cpp anexo.
+  Testes iniciais estão anexos e deverão ser mantidos. 
+  Outros poderão ser acrescentados.
+- Os valores usados para testes deverão ser informados por
+  arquivos com formato texto (editável) como o modelo
+  inputs_M1.txt, com apenas um valor em cada linha.
+- Um arquivo para compilar e testar automaticamente
+  o programa (mk) tambem segue em anexo, 
+  e para utilizar esse recurso bastara' digitar:
+
+  mk template inputs_001.txt outputs_001.txt
+
+- É permitida a consulta ao material disponível.
+- As soluções entregues serão verificadas e poderão ser
+  desconsideradas caso houver indicações de similaridade.
+- O tempo previsto para a avaliação será de 110 minutos.
+  Um tempo adicional de mais 45 minutos será oferecido
+  em atendimento às solicitações apresentadas pelo NAI.
+- A entrega do exercício deverá ser feita pelo CANVAS.
+
+Enunciado
+
+Um gerente de loja deverá cuidar de uma nova filial aberta
+no mês de dezembro. Como não poderá verificar os horários
+de seus colaboradores em outras de suas lojas, precisará 
+de um programa, em C++, para informar-se sobre seus 
+funcionários. 
+
+Os dados registrados de cada funcionário estarão guardados
+em arquivo: a matrícula, a entrada inicial, a saída para o
+descanso/almoço, o retorno e a saída ao final do dia. 
+
+O gerente espera consultar em uma planilha o resumo desses
+lançamentos para cada dia:
+
+- as horas de entradas (linhas 1 e 3 ) e 
+  as horas de saídas   (linhas 2 e 4);
+- o tempo para o descanso/intervalo  (linha 5);
+- o total de horas trabalhadas       (linha 6);
+- se há crédito ou débito de horas   (linha 7).
+
+Algumas condições deverão ser verificadas:
+
+- o número de horas trabalhadas deverá ser de 08:00h
+  (ou 0800), não mais do que 06 horas consecutivas,
+  o que resultará em advertência por excesso (1);
+- se houver mais horas trabalhadas, 
+  poderá contar um saldo positivo,
+  mas limitado a apenas uma hora, no máximo, 
+  também com advertência (2);
+- se houver uma diferença para menos nas horas trabalhadas, 
+  deverá haver uma compensação, se possível, no mesmo dia; 
+  entretanto, haverá um registro desse tempo, 
+  e também haverá uma advertência (3);
+- se a pausa para descanso for menor que uma hora,
+  mas não exceder 10 minutos, o funcionário receberá um bônus,
+  em tempo equivalente, que deverá ser compensado no mesmo dia;
+- se a pausa para descanso for maior que uma hora,
+  deverá ser lançada uma hora apenas no intervalo,
+  e deverá compensar o tempo extra, se possível, no mesmo dia.
+
+Sua função é tentar atualizar e apresentar a planilha 
+com os dados lidos do arquivo e, para isso, deverá completar 
+as definições no arquivo de programa (template.cpp) e 
+gerar o arquivo com advertências, se houver, 
+com a matrícula do funcionário e o tipo de advertência.
+
+OBS.: Realizar os tratamentos de erros, quando possível.

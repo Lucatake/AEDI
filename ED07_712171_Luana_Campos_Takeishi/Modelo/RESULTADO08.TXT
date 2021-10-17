@@ -1,0 +1,8 @@
+quantidade = 15
+soma = 2582
+quantidade = 10
+soma = 231
+quantidade = 5
+soma = 19
+quantidade = 1
+soma = 1
