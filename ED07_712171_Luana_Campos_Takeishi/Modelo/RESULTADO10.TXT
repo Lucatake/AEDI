@@ -1,0 +1,29 @@
+
+
+cadeia = 01Bola
+
+	quantidade = 0
+
+
+cadeia = vi 985PaTos e 37GiraFas
+
+	quantidade = 3
+
+
+cadeia = umaGrande 66753 vida
+
+	quantidade = 3
+
+
+cadeia = 0123456789
+
+	quantidade = 4
+
+
+cadeia = 5463728190AbCOpQ
+
+	quantidade = 4
+
+
+cadeia = boa936
+	quantidade = 2

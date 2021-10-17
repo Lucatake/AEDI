@@ -1,0 +1,20 @@
+Luana Campos Takeishi 	 Matricula: 712171
+Exemplo0716
+Versao: v0.1 - 07/10/20
+
+
+quantidade = 17
+quantidade maior que o numero de valores existentes
+
+quantidade = 16
+quantidade maior que o numero de valores existentes
+
+quantidade = 15
+soma = 174.104409
+
+quantidade = 14
+soma = 131.152727
+
+quantidade = 1
+soma = 1.000000
+
